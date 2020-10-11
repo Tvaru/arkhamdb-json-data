@@ -13,7 +13,7 @@
     },
     {
         "code": "parallel",
-        "name": "Parallel"
+        "name": "Równoległe"
     },
     {
         "code": "promotional",
@@ -45,6 +45,6 @@
     },
     {
         "code": "tic",
-        "name": "The Innsmouth Conspiracy"
+        "name": "Zmowa nad Innsmouth"
     }
 ]
